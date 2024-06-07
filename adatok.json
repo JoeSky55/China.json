@@ -1,0 +1,68 @@
+[
+    {
+        "name": "The Great Wall of China",
+        "name_chinese": " 万里长城",
+        "pinyin": "wànlǐ chángchéng",
+        "pic": "https://images6.alphacoders.com/373/373751.jpg",
+        "description":"The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe.",
+        "fun_fact":"Contrary to poular belief, the Great Wall cannot be seen from space"
+    },
+    {
+        "name": "The Forbidden City",
+        "name_chinese": " 紫禁城",
+        "pinyin": "zǐjìnchéng",
+        "pic": "https://www.expatsholidays.com/wp-content/uploads/2021/11/Forbidden-City-in-China.jpeg",
+        "description":"The Forbidden City is the imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of 24 Ming and Qing dynasty Emperors, and the center of political power in China for over 500 years from 1420 to 1924. The palace is now administered by the Palace Museum. As a UNESCO World Heritage Site, it is one of the most popular tourist attractions in the world. The Forbidden City is arguably the most famous palace in Chinese history, and the largest preserved royal palace still standing in the world.",
+        "fun_fact":"The Forbidden City is the largest palace complex in the world."
+    },
+    {
+        "name": "Iron Pagoda",
+        "name_chinese": " 鐵塔",
+        "pinyin": "tiětǎ",
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Iron_Pagoda_Cropped.jpg",
+        "description":"The Iron Pagoda , Kaifeng City, Henan province, is a Chinese pagoda built in 1049. The pagoda is so-named not because it is made of iron, but because its color resembles that of iron. It is a brick pagoda tower built on the location of a previous wooden one that had been burnt down by lightning fire in 1044. Along with the Liuhe, Lingxiao, Liaodi, Pizhi, and Beisi pagodas, it is seen as a masterpiece of Song dynasty architecture.",
+        "fun_fact":"There are 104 bells on the pagoda."
+    },
+    {
+        "name": "Tulou",
+        "name_chinese": "土楼",
+        "pinyin": "tǔlóu",
+        "pic": "https://watermark.lovepik.com/photo/20211208/large/lovepik-fujian-yongding-tulou-picture_501621517.jpg",
+        "description":"A tulou , or earthen building, is a traditional communal Hakka people residence found in Fujian, in South China, usually of a circular configuration surrounding a central shrine, and part of Hakka architecture. These vernacular structures were occupied by clan groups.",
+        "fun_fact":"In the 2020 Mulan film, Mulan and her family live in a tulou. This has raised controversies as the first tulou was not built when the actual poem was written."
+    },
+    {
+        "name": "Terracotta army",
+        "name_chinese": "兵马俑",
+        "pinyin": "bīngmǎyǒng",
+        "kep": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5a1CnFGdYgRd91VICqiFs95thM2hFf-d9cw&s",
+        "leiras":"The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting him in his afterlife.",
+        "fun_fact":"Estimates from 2007 were that the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses, the majority of which remain in situ in the pits near Qin Shi Huang's mausoleum."
+    },
+    {
+        "name": "Summer Palace",
+        "name_chinese": "颐和园",
+        "pinyin": "yíhéyuán",
+        "pic": "https://wallpapers.com/images/featured/summer-palace-5rablwfgqc57dqkb.jpg",
+        "description":"The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting him in his afterlife.",
+        "fun_fact":"Estimates from 2007 were that the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses, the majority of which remain in situ in the pits near Qin Shi Huang's mausoleum."
+    },
+    {
+        "name": "Chongqing",
+        "name_chinese": "重庆",
+        "pinyin": "chóngqìng",
+        "pic": "https://images6.alphacoders.com/113/1137158.jpg",
+        "description":"Chongqing is a municipality in Southwestern China. Chongqing is one of the four direct-administered municipalities under the Central People's Government, along with Beijing, Shanghai, and Tianjin. It is the only directly administrated municipality located deep inland.[14] The municipality covers a large geographical area roughly the size of Austria, which includes several disjunct urban areas in addition to Chongqing proper. ",
+        "fun_fact":"Due to its classification, the municipality of Chongqing is the largest city proper in the world by area, though it does not have the largest urban area."
+    },
+    {
+        "name": "Beijing",
+        "name_chinese": "北京",
+        "pinyin": "běijīng",
+        "pic": "https://wallpaper.forfun.com/fetch/a8/a8fcd34fd634d3de3f2cdfe3857f8b78.jpeg",
+        "description":"Beijing, alternatively romanized as Peking, is the capital of China. With more than 22 million residents, Beijing is the world's most populous national capital city as well as China's second largest city after Shanghai. It is located in Northern China, and is governed as a municipality under the direct administration of the State Council with 16 urban, suburban, and rural districts. Beijing is mostly surrounded by Hebei Province with the exception of neighboring Tianjin to the southeast; together, the three divisions form the Jingjinji megalopolis and the national capital region of China.",
+        "fun_fact":"Over the past 3,000 years, the city of Beijing has had numerous other names. The name Beijing, which means Northern Capital (from the Chinese characters 北 běi for north and 京 jīng for capital), was applied to the city in 1403 during the Ming dynasty to distinguish the city from Nanjing (the Southern Capital)."
+    }
+
+    
+]
